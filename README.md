@@ -6,5 +6,6 @@ If you have...
 - Comments
 - Bugs
 - Enhancements
+- Vulnerabilities
 
 Create an issue [here](https://github.com/frienddl-io/frienddl.io-support/issues) or email frienddlio@fire.fundersclub.com

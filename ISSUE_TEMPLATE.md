@@ -4,6 +4,7 @@
 * [ ] Comment
 * [ ] Bug
 * [ ] Enhancement
+* [ ] Vulnerability
 
 ## Short Overview
 
